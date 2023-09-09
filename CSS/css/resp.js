@@ -6,6 +6,4 @@ burgur.addEventListener('click', () => {
     rightNav.classList.toggle('v-class-resp');
     navlist.classList.toggle('v-class-resp');
     navbar.classList.toggle('h-nav-resp');
-
-
 })
